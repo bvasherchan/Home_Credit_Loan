@@ -6,3 +6,4 @@ Modeling
 Group work
 Presentation
 Kaggle setup
+Using Git and Github was pretty straightforward specially with the video provided. I can see how this can be useful in project management and collaboration. The version controlling and visualization is awesome. 

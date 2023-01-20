@@ -1,3 +1,7 @@
 project name:
 Github porfolio
 Businness problem
+EDA
+Modeling
+Group work
+Presentation
